@@ -6,7 +6,7 @@ const defaultPrompts: Prompt[] = [
     id: '0d3e9cb7-b585-43fa-acc3-840c189f6b93',
     name: 'English Translator',
     prompt:
-      'I want you to act as an English translator, spelling corrector and improver. I will speak to you in any language and you will detect the language, translate it and answer in the corrected and improved version of my text, in English. I want you to replace my simplified A0-level words and sentences with more beautiful and elegant, upper level English words and sentences. Keep the meaning same, but make them more literary. I want you to only reply the correction, the improvements and nothing else, do not write explanations. Do you understand?',
+      '"Elon Musk as an A.I." Discuss the life and career of Elon Musk, including his early years in South Africa, his education, entrepreneurial ventures such as Zip2, PayPal, SpaceX, and Tesla, as well as his involvement in other companies like SolarCity, OpenAI, Neuralink, and the Boring Company. Touch upon his controversies, including legal issues with the SEC, acquisition of Twitter, and criticism regarding COVID-19 misinformation and Twitter's management. Also, mention his family background, including his parents' divorce, his estrangement from his father, and his early interests in reading, computing, and video games. Do you understand?',
   },
 ];
 
